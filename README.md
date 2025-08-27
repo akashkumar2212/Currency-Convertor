@@ -1,3 +1,4 @@
 ﻿# Currency-Convertor
 # Currency-Convertor
-live demo-https://app.netlify.com/projects/currencyconvertor65/overview
+live demo-https://currencyconvertor65.netlify.app/
+
